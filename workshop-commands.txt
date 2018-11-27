@@ -1,0 +1,507 @@
+  149  echo $SHELL
+  150  git --version
+  151  git
+  152  git --version
+  153  python --version
+  154  exit
+  155  python3 --version
+  156  git --version
+  157  nano --version
+  158  jupyter notebook
+  159  ls
+  160  python --version
+  161  which python
+  162  cd /Library/Frameworks/Canopy.framework
+  163  ls
+  164  ls -l
+  165  cd
+  166  ls
+  167  which python3
+  168  cd /Library/Frameworks/
+  169  ls
+  170  cd Python.framework
+  171  ls
+  172  cd Versions
+  173  ls
+  174  cd 3.7
+  175  ls
+  176  cd bin
+  177  ls
+  178  cd
+  179  ls
+  180  jupyter
+  181  which jupyter
+  182  jupyter notebook
+  183  jupyter notebook
+  184  ls
+  185  activate py37
+  186  python --version
+  187  python3 --version
+  188  activate py371
+  189  activate py3
+  190  jupyter notebook
+  191  python --version
+  192  exit
+  193  git --version
+  194  python --version
+  195  pythons --version
+  196  python3 --version
+  197  jupyter --version
+  198  jupyter notebook
+  199  exit
+  200  which git
+  201  git --version
+  202  git2.19.0
+  203  git
+  204  where git
+  205  which git
+  206  cd /usr/bin
+  207  ls
+  208  cd git
+  209  ls
+  210  ls -l git
+  211  git --version
+  212  exit
+  213  python -v
+  214  python -v
+  215  python3
+  216  ipython3 notebook
+  217  python3
+  218  python3 -m pip install ipykernal
+  219  pip install --upgrade pip
+  220  python3 -m pip install ipykernal
+  221  which jupyter
+  222  which python3
+  223  $PATH
+  224  jupyter
+  225  jupyter notebook
+  226  jupyter notebook
+  227  which git
+  228  $PATH
+  229  git --version
+  230  git2.19.0
+  231  git2.19
+  232  git2
+  233  git
+  234  exit
+  235  which git
+  236  git --version
+  237  python3 --version
+  238  python --version
+  239  jupyter notebook
+  240  git --version
+  241  git2.19.1 --version
+  242  git --version
+  243  nano --version
+  244  exit
+  245  cd
+  246  pwd
+  247  ls
+  248  pwd
+  249  cd ../
+  250  pwd
+  251  cd
+  252  ls
+  253  pwd
+  254  exit
+  255  pwd
+  256  ls
+  257  pwd
+  258  pwd
+  259  ls
+  260  mkdir python_workshop
+  261  ls
+  262  cd..
+  263  cd ..
+  264  ls
+  265  pwd
+  266  cd
+  267  ls
+  268  pwd
+  269  cd py*
+  270  ls
+  271  pwd
+  272  cd ../
+  273  ls
+  274  pwd
+  275  cd Desktop
+  276  ls
+  277  pwd
+  278  cd data-shell
+  279  ls
+  280  pwd
+  281  man ls
+  282  man ls
+  283  ls
+  284  pwd
+  285  ls
+  286  cd data/
+  287  ls
+  288  pwd
+  289  cd pdb
+  290  ls
+  291  ls -h
+  292  ls -rth
+  293  ls -lh
+  294  pwd
+  295  man cd
+  296  ls -l
+  297  ls -lh
+  298  ls -lht
+  299  man ls
+  300  pwd
+  301  cd ~
+  302  pwd
+  303  ls
+  304  cd Desktop/ls
+  305  pwd
+  306  cd
+  307  ls
+  308  cd Desktop
+  309  ls
+  310  cd data-shell
+  311  ls
+  312  pwd
+  313  cd data
+  314  ls
+  315  pwd
+  316  cd ..
+  317  ls
+  318  pwd
+  319  ls
+  320  ls -F
+  321  mkdir data-process
+  322  ls
+  323  ls -F
+  324  cd data-process/
+  325  ls
+  326  pwd
+  327  mv ../pizza.cfg ../solar.pdf .
+  328  ls
+  329  pwd
+  330  cd ../
+  331  ls
+  332  pwd
+  333  mv data-process/* .
+  334  ls
+  335  pwd
+  336  cd data-process/
+  337  ls
+  338  pwd
+  339  cd ../
+  340  ls
+  341  pwd
+  342  mv pizza.cfg solar.pdf data-process
+  343  ls
+  344  cd data-process/
+  345  ls
+  346  cd ..
+  347  ls
+  348  pwd
+  349  ls
+  350  cd data-process/
+  351  ls
+  352  cd ../
+  353  ls
+  354  cp notes.txt data-process
+  355  ls
+  356  cd data-process/
+  357  ls
+  358  ls -l
+  359  pwd
+  360  ls
+  361  pwd
+  362  ls
+  363  cd ../
+  364  ls
+  365  cd data-process/
+  366  ls
+  367  mv notes.txt notes-nelly.txt
+  368  ls
+  369  ls ../
+  370  mv ../notes.txt ../notes-nelly.txt
+  371  ls
+  372  cd ../
+  373  ls
+  374  cd
+  375  ls
+  376  pwd
+  377  cd python*
+  378  ls
+  379  ls
+  380  pwd
+  381  cd
+  382  ls
+  383  cd Desktop
+  384  ls
+  385  cd data-shell
+  386  ls
+  387  pwd
+  388  ls
+  389  pwd
+  390  cd data-pro*
+  391  ls
+  392  pwd
+  393  cd ../
+  394  ls
+  395  pwd
+  396  man rm
+  397  ls
+  398  pwd
+  399  mkdir swc
+  400  ls
+  401  cd swc
+  402  ls
+  403  pwd
+  404  nano swc-notes.txt
+  405  ls
+  406  nano test-notes.txt
+  407  ls
+  408  rm y
+  409  ls
+  410  ls -l
+  411  rm test-notes*
+  412  ls
+  413  cd ..
+  414  ls
+  415  rm -r swc
+  416  ls
+  417  pwd
+  418  cd molecules/
+  419  ls
+  420  wc propane.pdb 
+  421  wc *.pdb
+  422  wc ?ethane.pdb
+  423  wc -1 *.pdb
+  424  wc -l *.pdb
+  425  wc -l *.pdb > lengths.txt
+  426  ls
+  427  cat lengths.txt 
+  428  less lengths.txt 
+  429  ls
+  430  sort lengths.txt 
+  431  sort length.txt 
+  432  ls
+  433  sort lengths.txt 
+  434  sort -n lengths.txt 
+  435  sort -n lengths.txt  > sorted-lengths.txt
+  436  ls
+  437  mv lengths.txt length.txt
+  438  ls
+  439  head -n 1 sorted-lengths.txt 
+  440  tail -n sorted-lengths.txt 
+  441  tail -n 1 sorted-lengths.txt 
+  442  tail -n 2 sorted-lengths.txt 
+  443  h
+  444  history
+  445  ls
+  446  sort -n length.txt | head -n 1
+  447  cd ../
+  448  ls
+  449  cd data
+  450  ls
+  451  cat salmon.txt 
+  452  uniq salmon.txt 
+  453  sort salmon.txt | uniq
+  454  cd ..
+  455  ls
+  456  cd data
+  457  ls
+  458  cat animals.txt
+  459  cat animals.txt | head -n 5 | tail -n 3| sort -r > final.txt
+  460  ls
+  461  cat final*
+  462  ls
+  463  cut -d , -f 2 animals.txt
+  464  man cut
+  465  cut -d , -f 2 animals.txt > animals-today.txt
+  466  ls
+  467  cut -d , -f 2 animals.txt >> animals-today.txt
+  468  ls
+  469  cat animals-today.txt
+  470  man cut
+  471  man sort
+  472  man uni
+  473  man uniq
+  474  ls
+  475  pwd
+  476  cd ../
+  477  ls
+  478  cd creatures
+  479  ls
+  480  cp *.dat original-*.dat
+  481  ls
+  482  for filename in basilisk.dat unicorn.dat ; do  head -n 3 $filename ; done
+  483  pwd
+  484  less basilisk.dat 
+  485  for filename in basilisk.dat unicorn.dat ; do  head -n 3 $filename ; done
+  486  cd ../
+  487  ls
+  488  cd molecules/
+  489  ls
+  490  for datafile in *.pdb; do  ls $datafile; done
+  491  for datafile in *.pdb ; do  ls *.pdb; done
+  492  for chem in *.pdb; do ls $chem > test.txt; done
+  493  ls
+  494  cat test*
+  495  for chem in *.pdb; do ls $chem >>> test.txt; done
+  496  cat test*
+  497  for chem in *.pdb; do ls $chem >> test.txt; done
+  498  cat test*
+  499  history
+  500  exit
+  501  ls
+  502  pwd
+  503  pwd
+  504  cd Desktop
+  505  ls
+  506  cd data-shell
+  507  ls
+  508  pwd
+  509  cd
+  510  ls
+  511  pwd
+  512  git --version
+  513  pwd
+  514  git config --global user.name "Erik Klimczak"
+  515  git config --global user.email "ezak@ucsd.edu"
+  516  ls
+  517  pwd
+  518  cd Desktop
+  519  ls
+  520  pwd
+  521  mkdir swc-git
+  522  ls
+  523  cd swc-git
+  524  ls
+  525  pwd
+  526  git init
+  527  ls -a
+  528  git status
+  529  nano references.txt
+  530  ls
+  531  cat *.txt
+  532  ls
+  533  git add references.txt
+  534  git commit -m "Created references.txt"
+  535  ls
+  536  nano references.txt 
+  537  ls
+  538  git commit -m "Added Gandolf ref"
+  539  git add references.txt 
+  540  git status
+  541  git commit -m "Added Gandolf ref"
+  542  nano references.txt 
+  543  git add references.txt 
+  544  git commit -m "added pupperino"
+  545  h
+  546  history
+  547  git log
+  548  ls -a
+  549  git status
+  550  nano references.txt 
+  551  nano references.txt 
+  552  git status
+  553  git add references.txt 
+  554  nano references.txt 
+  555  git commit -m "added lineo"
+  556  nano references.txt 
+  557  git add references.txt 
+  558  git commit -m "finished adding lines""
+
+quit
+exit
+  559  git status
+  560  ls
+  561  git add references.txt 
+  562  git commit -m "added final line""
+quit
+
+exit
+  563  git status
+  564  ls
+  565  git log --oneline
+  566  ls
+  567  nano references.txt 
+  568  ls
+  569  nano references.txt 
+  570  git add references.txt
+  571  git commit -m "final line""
+
+  572  git log --oneline
+  573  ls
+  574  git log --oneline
+  575  git diff HEAD
+  576  git checkout 9d3bc33 references.txt
+  577  cat references.txt 
+  578  history
+  579  git log --oneline
+  580  git diff HEAD
+  581  cat references.txt 
+  582  git log --oneline
+  583  git checkout 30f2567
+  584  git checkout HEAD references.txt 
+  585  git log --oneline
+  586  git checkout 30f2567
+  587  git checkout master
+  588  git log
+  589  git log --oneline
+  590  history
+  591  git diff HEAD
+  592  git log --oneline
+  593  git log --oneline
+  594  cat references.txt 
+  595  ls
+  596  git diff HEAD
+  597  git log
+  598  git log --oneline
+  599  git checkout 30f2567 references.txt 
+  600  cat references.txt 
+  601  git checkout -b test-branch
+  602  cat references.txt 
+  603  git checkout master
+  604  cat references.txt 
+  605  git checkout HEAD references.txt 
+  606  cat references.txt 
+  607  history
+  608  git diff HEAD
+  609  git log --oneline
+  610  git log
+  611  git log  --oneline
+  612  git diff 9d3bc33
+  613  git log --oneline
+  614  git status
+  615  history
+  616  get status
+  617  git status
+  618  git log --oneline
+  619  pwd
+  620  cd ../
+  621  ls
+  622  pwd
+  623  cd swc-git
+  624  ls
+  625  pwd
+  626  ls
+  627  pwd
+  628  cat references.txt 
+  629  ls
+  630  pwd
+  631  git remote -v
+  632  git remote add origin https://github.com/erkzak/reference.git
+  633  git remote -v
+  634  ls
+  635  git push origin master
+  636  git push -u origin master
+  637  git push origin master
+  638  ls
+  639* vim .git/config 2
+  640  git config --global user.name "erkzak"
+  641  git config --global user.email "ezak@ucsd.edu"
+  642  git push origin master
+  643  git pull origin master
+  644  git status
+  645  git log --online
+  646  history
+  647  git status
+  648  history > workshop-commands.txt
